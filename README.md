@@ -31,7 +31,7 @@ This project allowed me to operate in a full-team environment, collaborating wit
 ---
 
 ### 🚀 Spaceship Titanic Passenger Prediction  
-**Role:** Data Scientist (Bootcamp Project)  
+**Role:** Data Analyst (Bootcamp Project)  
 **GitHub Repo:** [adosbuyu/R_Project](https://github.com/adosbuyu/R_Project)  
 **Tools:** Python · Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn
 
@@ -59,7 +59,7 @@ Explored relationships between cereal nutrition (sugar, fiber, protein) and rati
 ---
 
 ### 🏠 Capstone Two: House Price Prediction  
-**Role:** Data Scientist (Bootcamp Project)  
+**Role:** Data Analyst (Bootcamp Project)  
 **GitHub Repo:** [adosbuyu/CapstoneTwo](https://github.com/adosbuyu/CapstoneTwo)  
 **Tools:** Python · Scikit-learn · XGBoost · Pandas · Seaborn · Matplotlib
 
