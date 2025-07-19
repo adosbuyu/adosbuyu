@@ -12,7 +12,7 @@ Welcome to my data portfolio! I'm a former high school math teacher turned data 
 
 ### 🧠 WholeViz (Tech Residency Project)  
 **Role:** Data Analyst (Internship via Riipen & Coding Temple)  
-**Live Demo:** [https://www.wholeviz.com/](https://www.wholeviz.com/)  *(Coming soon)*
+**Live Demo:** *(Coming soon)*[https://www.wholeviz.com/](https://www.wholeviz.com/)  
 **Repo:** *(Coming soon)*  
 **Tools:** Python · PostgreSQL · SQL · Plotly · Jupyter · Google Colab · Chart.js · RBAC · Auth0
 
