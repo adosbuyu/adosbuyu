@@ -4,7 +4,7 @@ Welcome to my data portfolio! I'm a former high school math teacher turned data 
 
 🎓 I completed the **Data Analyst program at Coding Temple**, where I developed strong foundations in Python, SQL, Tableau, machine learning, and data storytelling. During the program, I completed a series of structured projects, including the **R Project**, **Capstone One**, and **Capstone Two**.
 
-💼 Most recently, I completed a **Tech Residency with Coding Temple via Riipen**, where I worked on **WholeViz** (formerly NovaViz) — a full-stack, no-code data visualization platform that allowed me to apply advanced skills in access control, logging, simulation, and visualization logic in a production-style environment.
+💼 Most recently, I completed a **Tech Residency with Coding Temple via Riipen**, where I worked on **WholeViz** — a full-stack, no-code data visualization platform that allowed me to apply advanced skills in access control, logging, simulation, and visualization logic in a production-style environment.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my data portfolio! I'm a former high school math teacher turned data 
 
 ### 🧠 WholeViz (Tech Residency Project)  
 **Role:** Data Analyst (Internship via Riipen & Coding Temple)  
-**Live Demo:** [https://www.wholeviz.com/](https://www.wholeviz.com/)  
+**Live Demo:** [https://www.wholeviz.com/](https://www.wholeviz.com/)  *(Coming soon)*
 **Repo:** *(Coming soon)*  
 **Tools:** Python · PostgreSQL · SQL · Plotly · Jupyter · Google Colab · Chart.js · RBAC · Auth0
 
